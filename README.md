@@ -1,4 +1,4 @@
-# 🌱 Capstone Project: [Your Project Name Here]
+# 🌱 Capstone Project: [SmartFarm: Aplikasi Pemantauan Tanaman dan Cuaca untuk Petani]
 
 Welcome to the repository for our **Capstone Project**! This project is part of the Bangkit Academy program and involves [a brief description of your project here, like "building a weather prediction system using machine learning and cloud computing"].
 
